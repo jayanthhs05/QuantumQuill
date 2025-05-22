@@ -1,0 +1,6 @@
+**/models
+**/stories
+**/venv
+**/.env.example
+**/.env
+
